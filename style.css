@@ -1,0 +1,32 @@
+html { 
+    background: bisque;
+}
+p {
+    font-size: xx-large;
+    text-align: center;
+    font-family:cursive
+
+
+
+}
+
+button {
+    font-size: 20px;
+    background-color: crimson;
+    padding: 10px;
+    font-family: monospace;
+    margin: auto;
+    border: 3px solid black;
+}
+
+div {
+    font-size: 20px ;
+    top: 500px;
+    left: 300px;
+    height: fit-content;
+    width: fit-content;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color-interpolation-filters: auto;
+    color:black
+    
+}
